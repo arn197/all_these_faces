@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [org.tensorflow:tensorflow-android:1.7.0-rc0] /home/arn197/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.7.0-rc0.aar/ae38bbc772d4b21af0f8def9b4535f9c/AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/becf60a07731881436d0ca60cbe8a4c1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/arn197/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/92ac0c5781e3aa8587454978728497c9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/a484bfc8ca7209eb382a95d9691813a4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/34a23eaa1a01676cafeaae15843644b8/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/9901ff0da04b4121755b7b88cd440beb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/ab40c7821b5a371d55ad1fa424d2f8c5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/fd76f1561a2c66b884dea016fad09e0b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/5e4129e9fe264d4fb2096934fc19ee43/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/025f63bb30a396062906dddb85163d5d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/61f855c835da559bc46cd8de348d7735/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:4:5-65
+	android:name
+		ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:4:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:5:22-78
+uses-feature#android.hardware.camera
+ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:6:19-57
+application
+ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [org.tensorflow:tensorflow-android:1.7.0-rc0] /home/arn197/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.7.0-rc0.aar/ae38bbc772d4b21af0f8def9b4535f9c/AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.7.0-rc0] /home/arn197/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.7.0-rc0.aar/ae38bbc772d4b21af0f8def9b4535f9c/AndroidManifest.xml:5:5-6:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/becf60a07731881436d0ca60cbe8a4c1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/becf60a07731881436d0ca60cbe8a4c1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/arn197/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/92ac0c5781e3aa8587454978728497c9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/arn197/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/92ac0c5781e3aa8587454978728497c9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/a484bfc8ca7209eb382a95d9691813a4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/a484bfc8ca7209eb382a95d9691813a4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/34a23eaa1a01676cafeaae15843644b8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/34a23eaa1a01676cafeaae15843644b8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/9901ff0da04b4121755b7b88cd440beb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/9901ff0da04b4121755b7b88cd440beb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/ab40c7821b5a371d55ad1fa424d2f8c5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/ab40c7821b5a371d55ad1fa424d2f8c5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/fd76f1561a2c66b884dea016fad09e0b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/fd76f1561a2c66b884dea016fad09e0b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/5e4129e9fe264d4fb2096934fc19ee43/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/5e4129e9fe264d4fb2096934fc19ee43/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/025f63bb30a396062906dddb85163d5d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/025f63bb30a396062906dddb85163d5d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/61f855c835da559bc46cd8de348d7735/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/61f855c835da559bc46cd8de348d7735/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.arcus.allthesefaces.MainActivity
+ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml
+INJECTED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/becf60a07731881436d0ca60cbe8a4c1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/becf60a07731881436d0ca60cbe8a4c1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/arn197/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/92ac0c5781e3aa8587454978728497c9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/arn197/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/92ac0c5781e3aa8587454978728497c9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/a484bfc8ca7209eb382a95d9691813a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/a484bfc8ca7209eb382a95d9691813a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/34a23eaa1a01676cafeaae15843644b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/34a23eaa1a01676cafeaae15843644b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/9901ff0da04b4121755b7b88cd440beb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/9901ff0da04b4121755b7b88cd440beb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/ab40c7821b5a371d55ad1fa424d2f8c5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/ab40c7821b5a371d55ad1fa424d2f8c5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/fd76f1561a2c66b884dea016fad09e0b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/fd76f1561a2c66b884dea016fad09e0b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/5e4129e9fe264d4fb2096934fc19ee43/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/5e4129e9fe264d4fb2096934fc19ee43/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/025f63bb30a396062906dddb85163d5d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/025f63bb30a396062906dddb85163d5d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/61f855c835da559bc46cd8de348d7735/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/61f855c835da559bc46cd8de348d7735/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml
+INJECTED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/becf60a07731881436d0ca60cbe8a4c1/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml
+		ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml
+		ADDED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:2:1-23:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/arn197/tensorflow-old/tensorflow/examples/AllTheseFaces/app/src/main/AndroidManifest.xml:2:1-23:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/becf60a07731881436d0ca60cbe8a4c1/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/a484bfc8ca7209eb382a95d9691813a4/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/a484bfc8ca7209eb382a95d9691813a4/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/34a23eaa1a01676cafeaae15843644b8/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/34a23eaa1a01676cafeaae15843644b8/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/9901ff0da04b4121755b7b88cd440beb/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/9901ff0da04b4121755b7b88cd440beb/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/ab40c7821b5a371d55ad1fa424d2f8c5/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/ab40c7821b5a371d55ad1fa424d2f8c5/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/fd76f1561a2c66b884dea016fad09e0b/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/fd76f1561a2c66b884dea016fad09e0b/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/5e4129e9fe264d4fb2096934fc19ee43/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/5e4129e9fe264d4fb2096934fc19ee43/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/025f63bb30a396062906dddb85163d5d/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/025f63bb30a396062906dddb85163d5d/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/61f855c835da559bc46cd8de348d7735/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/61f855c835da559bc46cd8de348d7735/AndroidManifest.xml:26:9-28:44
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/becf60a07731881436d0ca60cbe8a4c1/AndroidManifest.xml:28:13-41
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/arn197/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/becf60a07731881436d0ca60cbe8a4c1/AndroidManifest.xml:27:13-51
